@@ -7,18 +7,18 @@ To design a web application for a standard calculator.
 ## DESIGN STEPS:
 
 ### Step 1:
-create a basic structure of your HTML file
+create a basic structure of your HTML file.
 
 ### Step 2:
-style your calculator using CSS
+style your calculator using CSS.
 
 
 ### Step 3:
-add functionality to your calculator using javascript
+add functionality to your calculator using javascript.
 
 
 ### Step 4:
-inside you add buttons for numbers(0-9) operators (+,-,*,/).clear(c) and equal(=)
+inside you add buttons for numbers(0-9) operators (+,-,*,/).clear(c) and equal(=).
 
 
 ### Step 5:
