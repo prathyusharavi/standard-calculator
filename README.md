@@ -22,7 +22,7 @@ inside you add buttons for numbers(0-9) operators (+,-,*,/).clear(c) and equal(=
 
 
 ### Step 5:
-improve CSS styling
+improve CSS styling.
 
 ### Step 6:
 
