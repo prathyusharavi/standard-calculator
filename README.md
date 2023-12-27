@@ -116,7 +116,12 @@ document.getElementById('display').value = '';
 
 ## OUTPUT:
 
-![image](https://github.com/prathyusharavi/standard-calculator/assets/147474424/c8092b89-1aee-42eb-b818-afa36147faa3)
+
+![image](https://github.com/prathyusharavi/standard-calculator/assets/147474424/e8349036-2df1-48ca-b49b-128ce9694169)
+
+
+
+
 
 
 ## Result:
