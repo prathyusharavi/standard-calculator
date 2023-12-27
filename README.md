@@ -33,6 +33,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 
 <html lang="en">
@@ -111,7 +112,7 @@ document.getElementById('display').value = '';
 </body>
 </html>
 
-
+```
 
 ## OUTPUT:
 
